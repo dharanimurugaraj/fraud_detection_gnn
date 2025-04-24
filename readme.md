@@ -49,6 +49,39 @@ It is built to be:
 
 ---
 
+## 📸 **Results Preview**
+
+![Results Screenshot](result.png)
+
+*Real-time prediction with fraud probability score*
+
+---
+
+## 🔭 **Future Enhancements**
+
+- 💬 Integrate **LLM-based scam explanation** module  
+- 🧪 Add **Generative AI** to simulate novel fraud patterns  
+- 📡 Deploy **REST API endpoints** for enterprise systems  
+- 👥 Add **user authentication** and profile-level insights  
+- 📊 Include **dashboard** for real-time fraud analytics  
+
+---
+
+## 💼 **Use Cases**
+
+- 🏦 **Banks and NBFCs**: Prevent unauthorized transfers  
+- 💳 **Fintech Platforms**: Screen P2P transactions  
+- 🛍️ **E-commerce**: Monitor refunds and fake account scams  
+- 📱 **Digital Wallets**: Track anomaly behavior over time  
+
+---
+
+## 🙌 **Acknowledgements**
+
+Built by **Dharani** during a **12-hour Hackathon sprint**!  
+Inspired by real-world financial fraud challenges and cutting-edge **graph ML research**.
+
+---
 ## 🛠️ **Installation & Local Setup**
 
 ```bash
