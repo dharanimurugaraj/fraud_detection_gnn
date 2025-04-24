@@ -1,0 +1,210 @@
+{
+  "nodes": [
+    {
+      "id": "A",
+      "risk": "Low Risk"
+    },
+    {
+      "id": "B",
+      "risk": "High Risk"
+    },
+    {
+      "id": "C",
+      "risk": "Low Risk"
+    },
+    {
+      "id": "D",
+      "risk": "High Risk"
+    },
+    {
+      "id": "E",
+      "risk": "High Risk"
+    },
+    {
+      "id": "F",
+      "risk": "High Risk"
+    },
+    {
+      "id": "G",
+      "risk": "High Risk"
+    },
+    {
+      "id": "H",
+      "risk": "Low Risk"
+    },
+    {
+      "id": "I",
+      "risk": "Low Risk"
+    },
+    {
+      "id": "J",
+      "risk": "Low Risk"
+    },
+    {
+      "id": "K",
+      "risk": "Low Risk"
+    },
+    {
+      "id": "L",
+      "risk": "Low Risk"
+    },
+    {
+      "id": "M",
+      "risk": "High Risk"
+    },
+    {
+      "id": "N",
+      "risk": "High Risk"
+    },
+    {
+      "id": "O",
+      "risk": "High Risk"
+    },
+    {
+      "id": "P",
+      "risk": "High Risk"
+    },
+    {
+      "id": "Q",
+      "risk": "High Risk"
+    },
+    {
+      "id": "R",
+      "risk": "Low Risk"
+    },
+    {
+      "id": "S",
+      "risk": "Low Risk"
+    },
+    {
+      "id": "T",
+      "risk": "Low Risk"
+    },
+    {
+      "id": "U",
+      "risk": "Low Risk"
+    }
+  ],
+  "edges": [
+    {
+      "from": "A",
+      "to": "B"
+    },
+    {
+      "from": "A",
+      "to": "C"
+    },
+    {
+      "from": "B",
+      "to": "C"
+    },
+    {
+      "from": "B",
+      "to": "D"
+    },
+    {
+      "from": "C",
+      "to": "D"
+    },
+    {
+      "from": "D",
+      "to": "E"
+    },
+    {
+      "from": "D",
+      "to": "F"
+    },
+    {
+      "from": "E",
+      "to": "F"
+    },
+    {
+      "from": "E",
+      "to": "G"
+    },
+    {
+      "from": "F",
+      "to": "D"
+    },
+    {
+      "from": "F",
+      "to": "G"
+    },
+    {
+      "from": "G",
+      "to": "H"
+    },
+    {
+      "from": "H",
+      "to": "I"
+    },
+    {
+      "from": "H",
+      "to": "J"
+    },
+    {
+      "from": "I",
+      "to": "J"
+    },
+    {
+      "from": "I",
+      "to": "K"
+    },
+    {
+      "from": "J",
+      "to": "K"
+    },
+    {
+      "from": "K",
+      "to": "L"
+    },
+    {
+      "from": "M",
+      "to": "N"
+    },
+    {
+      "from": "M",
+      "to": "P"
+    },
+    {
+      "from": "N",
+      "to": "O"
+    },
+    {
+      "from": "N",
+      "to": "Q"
+    },
+    {
+      "from": "O",
+      "to": "M"
+    },
+    {
+      "from": "P",
+      "to": "Q"
+    },
+    {
+      "from": "P",
+      "to": "R"
+    },
+    {
+      "from": "Q",
+      "to": "R"
+    },
+    {
+      "from": "R",
+      "to": "S"
+    },
+    {
+      "from": "S",
+      "to": "T"
+    },
+    {
+      "from": "S",
+      "to": "U"
+    },
+    {
+      "from": "T",
+      "to": "U"
+    }
+  ]
+}
