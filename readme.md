@@ -51,7 +51,7 @@ It is built to be:
 
 ## 📸 **Results Preview**
 
-![Results Screenshot](result.png)
+![Results Screenshot](results.png)
 
 *Real-time prediction with fraud probability score*
 
@@ -86,7 +86,7 @@ Inspired by real-world financial fraud challenges and cutting-edge **graph ML re
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/SecureFlow.git
+git clone [https://github.com/dharanimurugaraj/fraud_detection_gnn.git]
 cd SecureFlow
 
 # 2. (Optional) Create a virtual environment
